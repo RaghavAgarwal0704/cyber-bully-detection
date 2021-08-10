@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "608479f5c3147a3128c3263c"
+  },
+  "bio": "Aute deserunt est deserunt sunt amet laboris Lorem culpa excepteur consequat aliqua. Do amet eiusmod dolore quis consequat. Ut incididunt dolore veniam labore cillum qui. Veniam qui nostrud dolor aliqua et mollit sit commodo ad. Fugiat Lorem ipsum velit duis laboris mollit esse id eiusmod eiusmod.",
+  "email": "sparsh@gmail.com",
+  "followers": [
+    {
+      "_id": {
+        "$oid": "60847c3de182424ef4619eff"
+      },
+      "username": "Raghav Agarwal",
+      "id": {
+        "$oid": "60847b1b2b880028309ac280"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60847d8740310c1cb0e7b5ec"
+      },
+      "username": "Jayant Malik",
+      "id": {
+        "$oid": "60847d8640310c1cb0e7b5ea"
+      }
+    }
+  ],
+  "following": [],
+  "name": "Sparsh Jain",
+  "password": "sparsh_password",
+  "updatedAt": {
+    "$date": "2021-04-24T20:20:23.193Z"
+  }
+},{
+  "_id": {
+    "$oid": "60847b1b2b880028309ac280"
+  },
+  "bio": "In sit labore enim laborum voluptate amet sit ullamco mollit magna labore voluptate eu proident. Aute consectetur ex amet labore aliquip id sunt adipisicing enim sit do irure do duis. Est eiusmod et occaecat cillum ipsum consectetur mollit. Proident elit in deserunt anim ut est et deserunt. Nostrud dolore ea qui qui nulla. Elit exercitation dolore ex fugiat commodo ad excepteur.",
+  "email": "raghav@gmail.com",
+  "followers": [],
+  "following": [
+    {
+      "_id": {
+        "$oid": "60847b1b2b880028309ac281"
+      },
+      "id": {
+        "$oid": "608479f5c3147a3128c3263c"
+      },
+      "username": "Sparsh Jain"
+    }
+  ],
+  "name": "Raghav Agarwal",
+  "password": "raghav_password",
+  "updatedAt": {
+    "$date": "2021-04-24T20:10:03.394Z"
+  }
+},{
+  "_id": {
+    "$oid": "60847d8640310c1cb0e7b5ea"
+  },
+  "bio": "Cillum voluptate ut tempor aliquip aliquip deserunt qui ut officia. Exercitation esse eu voluptate tempor excepteur ut deserunt irure labore enim. Do mollit nisi cillum sit eu cupidatat amet voluptate quis ipsum ad quis id. Id officia adipisicing enim esse non exercitation do minim id quis Lorem. Eu pariatur pariatur laboris reprehenderit sunt culpa do adipisicing ad.",
+  "email": "Jayant@gmail.com",
+  "followers": [],
+  "following": [
+    {
+      "_id": {
+        "$oid": "60847d8640310c1cb0e7b5eb"
+      },
+      "id": {
+        "$oid": "608479f5c3147a3128c3263c"
+      },
+      "username": "Sparsh Jain"
+    }
+  ],
+  "name": "Jayant Malik",
+  "password": "Jayant_password",
+  "updatedAt": {
+    "$date": "2021-04-24T20:20:22.976Z"
+  }
+}]

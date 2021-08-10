@@ -1,0 +1,12 @@
+node_modules
+*.env
+*.png
+*.svg
+*.jpg
+*.jpeg
+temp.js
+data.js
+users.json
+variables
+*.zip
+*.pkl
